@@ -64,11 +64,12 @@ This React component integrates Chart.js to create a line chart representing rev
 - Calculates and displays the revenue growth percentage.
 - Utilizes the Chart.js library for creating interactive charts.
 - Responsive design with adjustable options.
+- used backend to sort data and make api for downsampling data.
 
 # Usage
 
-     Ensure that the axios and react-chartjs-2 libraries are installed:-
-    Customize the API endpoint in the axios request inside the useEffect to match your data source.
+     Ensure that the Axios and react-chartjs-2 libraries are installed:-
+    Customize the API endpoint in the Axios request inside the useEffect to match your data source.
     Adjust the chart data, styling, and options based on your specific requirements.
 ---
 
