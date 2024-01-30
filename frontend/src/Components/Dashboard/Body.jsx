@@ -106,7 +106,7 @@ const Body = () => {
   };
 
   useEffect(() => {
-    axios.get("http://localhost:3005/api/downsampled").then((res) => {
+    axios.get("https://chakr-innovation-pvt-ltd.vercel.app/api/downsampled").then((res) => {
       setRevenue(res.data.downsampledData);
     });
   }, []);
