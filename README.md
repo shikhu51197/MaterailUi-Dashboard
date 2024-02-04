@@ -1,4 +1,4 @@
-> 💻 PROJECT NAME ✨ => 💻  SpaceX Data App: Revenue Chart Dashboard 🧑‍🏫
+> 💻 PROJECT NAME ✨ => 💻  : Revenue Chart Dashboard 🧑‍🏫
 <br>
 
 ✨ Welcome to my Chakr-Innovation Dashboard! This application allows users to explore Revenue & Profit Chart data in a user-friendly interface.
